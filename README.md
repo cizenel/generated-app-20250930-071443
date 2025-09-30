@@ -1,6 +1,6 @@
 # MLS ProAdmin
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/cizenel/generated-app-20250930-071443)
 
 MLS ProAdmin is a comprehensive, role-based user and data management platform designed for administrative oversight. It features a secure login system with three distinct user levels: Super Admin, Admin, and Normal User, each with specific permissions. The core of the application is a powerful user management module that allows authorized users to add, edit, delete, filter, sort, and export user data. Additionally, a dedicated 'Definitions' section provides CRUD functionality for managing key business entities such as Sponsors, Centers, Researchers, and Project Codes, again governed by user roles. The entire application is wrapped in a visually stunning, modern, and intuitive interface.
 
@@ -106,4 +106,4 @@ Wrangler will handle the process of building the frontend assets, bundling the w
 
 Or deploy directly with the button below:
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/cizenel/generated-app-20250930-071443)
